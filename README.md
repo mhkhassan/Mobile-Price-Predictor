@@ -1,1 +1,2 @@
 # Mobile-Price-Predictor
+This project implements a Linear Regression model to predict mobile phone prices based on various features such as product ID, sale, weight, resolution, PPI, CPU cores, CPU frequency, internal memory, RAM, rear camera, front camera, battery and thickness. The project includes a jupyter notebook with exploratory data analysis (EDA), preprocessing, model training and a Tkinter-based GUI for user input and price prediction.
