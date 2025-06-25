@@ -90,10 +90,10 @@ jupyter notebook
 ## 2. Open and Run
 - `Open mobile_price_predictor.ipnyb`
 - `Run all cells to:`
--- `Perform EDA`
--- `Preprocess data`
--- `Train the model`
--- `Launch the Tkinter GUI`
+ -`Perform EDA`
+ - `Preprocess data`
+ - `Train the model`
+ - `Launch the Tkinter GUI`
 
 ## 3. Use the GUI
 - `Input mobile features in the GUI`
