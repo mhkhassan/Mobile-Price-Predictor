@@ -104,3 +104,39 @@ jupyter notebook
 
 > ⚠️ **Note**: Make sure your system supports graphical output for Tkinter. It may not work on headless servers.
 ---
+
+## 🤝 Contributing
+Contributions are welcome!
+
+1. **Fork** the repository
+
+2. **Clone** your forked repo:
+   ```bash
+   git clone https://github.com/your-username/mobile-price-predictor.git
+   cd mobile-price-predictor
+   ```
+
+3. **Create a new branch** for your feature or fix:
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+
+4. **Make your changes** and commit them:
+   ```bash
+   git commit -m "Add: your description of the feature or fix"
+   ```
+
+5. **Push** the changes to your fork:
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+
+6. **Open a Pull Request** on GitHub with a clear title and description of your changes.
+
+
+## 💡 Guidelines
+- `Follow the PEP8 Python style guide.`
+- `Write clear, concise commit messages.`
+- `Include comments to explain complex code logic.`
+- `Ensure your changes do not break existing functionality.`
+- `Test your features before submitting a pull request.`
