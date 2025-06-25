@@ -133,7 +133,7 @@ Contributions are welcome!
 
 6. **Open a Pull Request** on GitHub with a clear title and description of your changes.
 
-
+---
 ## 💡 Guidelines
 - `Follow the PEP8 Python style guide.`
 - `Write clear, concise commit messages.`
