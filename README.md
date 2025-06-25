@@ -58,3 +58,47 @@ The model uses the following 13 features for prediction:
 - `Thickness`: Thickness in mm  
 
 ---
+## ⚙️ Installation
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/mobile-price-predictor.git
+```
+
+## 2. Install Dependencies
+Ensure you have Python 3.9+ installed.
+```bash
+pip install requirements.txt
+```
+
+## 3. Install Jupyter (if not already: optional)
+```bash
+pip install jupyter
+```
+
+## 4. Download Dataset
+Download Cellphone.csv from Kaggle and place it in the root project directory
+
+## ▶️ Usage
+
+## 1. Launch Jupyter Notebook
+```bash
+jupyter notebook
+```
+
+## 2. Open and Run
+- `Open mobile_price_predictor.ipnyb`
+- `Run all cells to:`
+-- `Perform EDA`
+-- `Preprocess data`
+-- `Train the model`
+-- `Launch the Tkinter GUI`
+
+## 3. Use the GUI
+- `Input mobile features in the GUI`
+- `Click "Predict Price"`
+- `View the Predicted Price instantly`
+- `Visuals (e.g., actual vs predicted) will also appear in the notebook.`
+
+> ⚠️ **Note**: Make sure your system supports graphical output for Tkinter. It may not work on headless servers.
