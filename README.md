@@ -103,3 +103,4 @@ jupyter notebook
 - `Visuals (e.g., actual vs predicted) will also appear in the notebook.`
 
 > ⚠️ **Note**: Make sure your system supports graphical output for Tkinter. It may not work on headless servers.
+---
