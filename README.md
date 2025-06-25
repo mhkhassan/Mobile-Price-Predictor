@@ -80,6 +80,7 @@ pip install jupyter
 ## 4. Download Dataset
 Download Cellphone.csv from Kaggle and place it in the root project directory
 
+---
 ## ▶️ Usage
 
 ## 1. Launch Jupyter Notebook
